@@ -1,6 +1,9 @@
 Hi, 
 All
 this is my 
+<<<<<<< HEAD
 bnlknnpingngn
 
 dvndnlsfnbdfnbf;bfnb
+=======
+>>>>>>> parent of 9d2871b (1st commit)
